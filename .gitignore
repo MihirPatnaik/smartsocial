@@ -1,0 +1,26 @@
+﻿# Node + build
+node_modules/
+dist/
+.cache/
+
+# VSCode / system
+.vscode/
+.codeoss/
+.npm/
+
+# Old project
+DatasenceAI/
+
+# Env files (VERY IMPORTANT!)
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Others
+.DS_Store
